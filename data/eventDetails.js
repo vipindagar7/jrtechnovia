@@ -107,15 +107,15 @@ export const eventDetails = {
     summary: "Wireless-controlled robots play football on a mini arena.",
     stats: [
       ["5 kg", "Max weight incl. battery"],
-      ["12 V", "Max voltage (3S LiPo)"],
+      ["24 V", "Max voltage (6S LiPo)"],
       ["2 × 5 min", "Halves, short interval"],
       ["8 × 4 ft", "Arena size"],
     ],
     specs: [
       ["Maximum dimensions", "35 cm × 35 cm × 35 cm"],
       ["Maximum weight", "5 kg, including chassis, kicking mechanism, and batteries"],
-      ["Maximum voltage", "3S LiPo, 12 V DC/3S (fully charged)"],
-      ["Control", "Fully wireless (RF or Bluetooth) manual control. No wired tethers; autonomous operation is strictly banned."],
+      ["Maximum voltage", "6S LiPo, 24 V DC/6S (fully charged)"],
+      ["Control", "Fully wireless manual control. No wired tethers; autonomous operation is strictly banned."],
       ["Ball handling", "At least 50% of the ball's surface must remain exposed at all times. Mechanisms that fully trap, grab, suction, or swallow the ball are prohibited."],
     ],
     notes: ["Participants must bring their own robot, controller, and necessary spares."],
